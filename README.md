@@ -7,6 +7,12 @@ Page created using:
 <h1 align="center">Hello world! I'm Daniel 👋</h1>
 <h3 align="center">A passionate IT professional</h3>
 
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danizzvargas/danizzvargas/output/github-contribution-grid-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danizzvargas/danizzvargas/output/github-contribution-grid-snake.svg" />
+<img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/daniel-vargas-sanchez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel-vargas-sanchez" height="30" width="40" /></a>
